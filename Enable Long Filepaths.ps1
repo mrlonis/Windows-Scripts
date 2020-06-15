@@ -1,6 +1,6 @@
 Write-Host "Starting..."
 
-$Registry_Path = "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem"
+$Registry_Path = "HKCU:\SYSTEM\CurrentControlSet\Control\FileSystem"
 $Registry_Key = "LongPathsEnabled"
 $Registry_Value = "1"
 

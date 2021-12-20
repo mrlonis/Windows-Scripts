@@ -4,17 +4,11 @@
 
 ```shell
 activate_all_traditions
-
 ftl
-
 instant_build
-
 intel
-
 invincible
-
 max_resources
-
 survey
 ```
 
@@ -31,9 +25,7 @@ research_technology tech_titans
 
 ```shell
 finish_research
-
 finish_special_projects
-
 finish_terraform
 ```
 
@@ -41,50 +33,51 @@ finish_terraform
 
 ```shell
 tweakergui instant_colony
-
 tweakergui instant_move
-
 tweakergui instant_survey
-
 tweakergui instant_anomaly_research
-
 tweakergui ignore_truce
-
 tweakergui terraincognita
 ```
 
 ## Misc
 
 ```shell
-activate_ascension_perk ap_evolutionary_mastery
-activate_ascension_perk ap_the_flesh_is_weak
-activate_ascension_perk ap_synthetic_evolution
-activate_ascension_perk ap_world_shaper
-activate_ascension_perk ap_mind_over_matter
-activate_ascension_perk ap_transcendence
-activate_ascension_perk ap_master_builders
-activate_ascension_perk ap_imperial_prerogative
-activate_ascension_perk ap_one_vision
 activate_ascension_perk ap_consecrated_worlds
+activate_ascension_perk ap_eternal_vigilance
 activate_ascension_perk ap_executive_vigor
+activate_ascension_perk ap_galactic_wonders
+activate_ascension_perk ap_hydrocentric
+activate_ascension_perk ap_imperial_prerogative
+activate_ascension_perk ap_interstellar_dominion
+activate_ascension_perk ap_mastery_of_nature
+activate_ascension_perk ap_nihilistic_acquisition
+activate_ascension_perk ap_one_vision
+activate_ascension_perk ap_shared_destiny
+activate_ascension_perk ap_technological_ascendancy
+activate_ascension_perk ap_transcendent_learning
+activate_ascension_perk ap_universal_transactions
+activate_ascension_perk ap_voidborn
+activate_ascension_perk ap_xeno_compatibility
+activate_ascension_perk ap_enigmatic_engineering
+activate_ascension_perk ap_grasp_the_void
+activate_ascension_perk ap_engineered_evolution
+activate_ascension_perk ap_mind_over_matter
+activate_ascension_perk ap_the_flesh_is_weak
+activate_ascension_perk ap_world_shaper
+activate_ascension_perk ap_arcology_project
 activate_ascension_perk ap_galactic_force_projection
+activate_ascension_perk ap_hive_worlds
+activate_ascension_perk ap_machine_worlds
+activate_ascension_perk ap_master_builders
+activate_ascension_perk ap_synthetic_age
+activate_ascension_perk ap_evolutionary_mastery
+activate_ascension_perk ap_synthetic_evolution
+activate_ascension_perk ap_transcendence
+activate_ascension_perk ap_become_the_crisis
+activate_ascension_perk ap_colossus
 activate_ascension_perk ap_defender_of_the_galaxy
 activate_ascension_perk ap_galactic_contender
-activate_ascension_perk ap_technological_ascendancy
-activate_ascension_perk ap_mastery_of_nature
-activate_ascension_perk ap_voidborn
-activate_ascension_perk ap_the_circle_of_life
-activate_ascension_perk ap_galactic_wonders
-activate_ascension_perk ap_interstellar_dominion
-activate_ascension_perk ap_eternal_vigilance
-activate_ascension_perk ap_grasp_the_void
-activate_ascension_perk ap_synthetic_age
-activate_ascension_perk ap_machine_worlds
-activate_ascension_perk ap_shared_destiny
-activate_ascension_perk ap_colossus
-activate_ascension_perk ap_enigmatic_engineering
-activate_ascension_perk ap_nihilistic_acquisition
-activate_ascension_perk ap_transcendent_learning
 
 add_relic r_unbidden_warlock
 ```

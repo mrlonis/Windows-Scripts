@@ -10,6 +10,20 @@ intel
 invincible
 max_resources
 survey
+skip_galactic_community_cooldowns
+free_policies
+free_government
+communications
+
+debug_yesmen
+
+influence
+own
+skills 10
+unlock_edicts
+minor_artifacts
+menace
+imperial_authority
 ```
 
 ## Technology
@@ -18,7 +32,7 @@ survey
 research_all_technologies 0 0
 research_all_technologies 1 99
 
-research_technology tech_titans
+research_technology tech_automated_exploration
 ```
 
 ## Situational
@@ -27,6 +41,21 @@ research_technology tech_titans
 finish_research
 finish_special_projects
 finish_terraform
+
+force_senate_vote
+end_senate_session
+
+election
+
+add_opinion 3 0 10 # Add 10 opinion from empire 3 to empire 0 (you)
+add_pops 0 5 # species_id planet_id
+add_spynetwork_value 1 1000
+add_trait_species 5 intelligent
+add_trait_leader 1 leader_trait_gale_speed
+colonize 1
+create_megastructure gateway_final
+
+force_integrate 1
 ```
 
 ## Tweakergui
@@ -38,6 +67,7 @@ tweakergui instant_survey
 tweakergui instant_anomaly_research
 tweakergui ignore_truce
 tweakergui terraincognita
+tweakergui enable.ai
 ```
 
 ## Misc

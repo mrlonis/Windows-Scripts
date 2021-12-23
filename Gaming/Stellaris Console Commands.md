@@ -14,11 +14,10 @@ skip_galactic_community_cooldowns
 free_policies
 free_government
 communications
-
 debug_yesmen
-
 influence
-own
+
+own # Whatever is selected or provide plant id
 skills 10
 unlock_edicts
 minor_artifacts
@@ -33,6 +32,7 @@ research_all_technologies 0 0
 research_all_technologies 1 99
 
 research_technology tech_automated_exploration
+research_technology tech_automated_exploration_machine_intelligence
 ```
 
 ## Situational
@@ -40,7 +40,7 @@ research_technology tech_automated_exploration
 ```shell
 finish_research
 finish_special_projects
-finish_terraform
+finish_terraforma
 
 force_senate_vote
 end_senate_session
@@ -54,8 +54,11 @@ add_trait_species 5 intelligent
 add_trait_leader 1 leader_trait_gale_speed
 colonize 1
 create_megastructure gateway_final
+create_megastructure dyson_sphere_5
+create_megastructure matter_decompressor
 
 force_integrate 1
+add_anomaly terraforming_candidate_category
 ```
 
 ## Tweakergui

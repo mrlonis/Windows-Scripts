@@ -40,7 +40,7 @@ research_technology tech_automated_exploration_machine_intelligence
 ```shell
 finish_research
 finish_special_projects
-finish_terraforma
+finish_terraform
 
 force_senate_vote
 end_senate_session

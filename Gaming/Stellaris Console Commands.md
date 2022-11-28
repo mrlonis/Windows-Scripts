@@ -1,5 +1,19 @@
 # Stellaris Console Commands
 
+## For the lazy
+
+```shell
+observe
+```
+
+when done
+
+```shell
+play 00
+```
+
+to exit
+
 ## Game Start
 
 ```shell

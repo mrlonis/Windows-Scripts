@@ -3,16 +3,9 @@
 ## For the lazy
 
 ```shell
-observe
+observe # Observe mode
+play 00 # Play as the first empire (aka you)
 ```
-
-when done
-
-```shell
-play 00
-```
-
-to exit
 
 ## Game Start
 
@@ -30,7 +23,6 @@ free_government
 communications
 debug_yesmen
 influence
-
 own # Whatever is selected or provide plant id
 skills 10
 unlock_edicts
@@ -44,9 +36,6 @@ imperial_authority
 ```shell
 research_all_technologies 0 0
 research_all_technologies 1 99
-
-research_technology tech_automated_exploration
-research_technology tech_automated_exploration_machine_intelligence
 ```
 
 ## Situational
